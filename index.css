@@ -1,0 +1,14 @@
+.firstDiv{
+    background-color: bisque;
+    color: red;
+}
+
+ol{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+li{
+   list-style-type: none;   
+}
